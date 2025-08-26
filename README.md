@@ -1,7 +1,5 @@
 <h1>jack</h1>
 
-- 17
-
 <h2 align="center">Languages</h2>
 
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua">
