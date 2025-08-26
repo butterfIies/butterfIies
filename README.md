@@ -9,3 +9,7 @@
 
 <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js">
 <img src="https://img.shields.io/badge/fivem-black?style=for-the-badge&logo=fivem">
+
+<h2 align="center">Contact Me</h2>
+
+<a href="https://discordapp.com/users/1392818375985594410"><img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=discord" alt="8qck"></a>
