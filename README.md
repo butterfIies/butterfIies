@@ -12,4 +12,4 @@
 
 <h2 align="center">Contact Me</h2>
 
-<a href="https://discordapp.com/users/1392818375985594410"><img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=discord" alt="8qck"></a>
+<a href="https://discordapp.com/users/1322423122166550538"><img src="https://img.shields.io/badge/Contact%20Me-black?style=for-the-badge&logo=discord" alt="8qck"></a>
